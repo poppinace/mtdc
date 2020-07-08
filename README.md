@@ -21,6 +21,8 @@ The MTDC dataset extends our previous MTC dataset with bounding box annotations 
 - 13,562 bounding boxes annotations.
 - The dataset is captured in the field with realistic visual challenges.
 
+![maize tassels](mtdc.png)
+
 ## Download
 
 [Google Drive](https://drive.google.com/drive/folders/1GhXCkKL4VzrQTMCdAt16DhkqSvIMPS0q?usp=sharing)
