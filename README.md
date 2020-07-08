@@ -13,7 +13,7 @@ Hongwei Zou<sup>1</sup>, [Hao Lu](https://sites.google.com/site/poppinace/)<sup>
 Plant Methods, 2020, in submission
 
 ## Introduction
-The MTDC dataset extends our previous MTC dataset with bounding box annotations that enable the evaluation of object detection frameworks.
+The MTDC dataset extends our previous [MTC dataset](https://github.com/poppinace/mtc) with bounding box annotations that enable the evaluation of object detection frameworks.
 
 ## Highlights
 - 361 field images collected from 4 experimental fields across China: Zhengzhou, Henan Province, China, Taian, Shandong Province, China, Gucheng, Hebei Province, China, and Jalaid, Sinkiang Autonomous Region, China.
