@@ -10,6 +10,11 @@ Hongwei Zou<sup>1</sup>, [Hao Lu](https://sites.google.com/site/poppinace/)<sup>
 
 <sup>2</sup>School of Computer Science and Engineering, Wuhan Institute of Technology
 
+Plant Methods, 2020, in submission
+
+## Introduction
+The MTDC dataset extends our previous MTC dataset with bounding box annotations that enable the evaluation of object detection frameworks.
+
 ## Highlights
 - 361 field images collected from 4 experimental fields across China: Zhengzhou, Henan Province, China, Taian, Shandong Province, China, Gucheng, Hebei Province, China, and Jalaid, Sinkiang Autonomous Region, China.
 - Six cultivars of maize plants: Jundan No.20, Nongda, No.108, Wuyue No.3, Zhengdan No.32, Jidan No.20, and Tianlong No.9.
