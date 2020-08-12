@@ -10,7 +10,7 @@ Hongwei Zou<sup>1</sup>, [Hao Lu](https://sites.google.com/site/poppinace/)<sup>
 
 <sup>2</sup>School of Computer Science and Engineering, Wuhan Institute of Technology
 
-Plant Methods, 2020, in submission
+Plant Methods, 2020
 
 ## Introduction
 The MTDC dataset extends our previous [MTC dataset](https://github.com/poppinace/mtc) with bounding box annotations that enable the evaluation of object detection frameworks.
@@ -28,6 +28,21 @@ The MTDC dataset extends our previous [MTC dataset](https://github.com/poppinace
 [Google Drive](https://drive.google.com/drive/folders/1GhXCkKL4VzrQTMCdAt16DhkqSvIMPS0q?usp=sharing)
 
 *Each image is associated with a standalone ".mat" annotation file that records the position of bounding boxes. The ".mat" files are created in Matlab.
+
+## Citation
+If you find our dataset useful for your research, please cite:
+```
+@article{zou2020maize,
+  title={Maize tassels detection: a benchmark of the state of the art},
+  author={Zou, Hongwei and Lu, Hao and Li, Yanan and Liu, Liang and Cao, Zhiguo},
+  journal={Plant Methods},
+  volume={16},
+  number={1},
+  pages={1--15},
+  year={2020},
+  publisher={Springer}
+}
+```
 
 ## Permission
 
