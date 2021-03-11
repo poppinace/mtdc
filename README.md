@@ -25,7 +25,7 @@ The MTDC dataset extends our previous [MTC dataset](https://github.com/poppinace
 
 ## Download
 
-[Google Drive](https://drive.google.com/drive/folders/1GhXCkKL4VzrQTMCdAt16DhkqSvIMPS0q?usp=sharing)
+[Google Drive](https://drive.google.com/file/d/1IyGpYMS_6eClco2zpHKzW5QDUuZqfVFJ/view?usp=sharing)
 
 *Each image is associated with a standalone ".mat" annotation file that records the position of bounding boxes. The ".mat" files are created in Matlab.
 
